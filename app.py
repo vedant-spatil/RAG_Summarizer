@@ -7,9 +7,6 @@ from llmware.library import Library
 from llmware.prompts import Prompt
 from llmware.retrieval import Query
 from llmware.configs import LLMWareConfig
-from llmware.status import Status
-from llmware.models import ModelCatalog
-from importlib import util
 
 # Ensure necessary directories exist
 os.makedirs("data/sample_files", exist_ok=True)
