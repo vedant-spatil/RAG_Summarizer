@@ -2,7 +2,7 @@
 
 ## Overview
 
-Summarize any pdf with the help of RAG_Summarizer which using LLMWare
+Summarize any pdf with the help of RAG_Summarizer using LLMWare
 
 ## Demo
 
